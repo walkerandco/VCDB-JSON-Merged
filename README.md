@@ -10,3 +10,4 @@ This collated JSON data file will be updated quarterly.
 
 # Contact
 Users can feel free to contact me with issues or suggestions by raising them on this GitHub pages as issues.
+I can also be contacted through my website at https://steven.walkerroberts.co.uk/
