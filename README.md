@@ -5,6 +5,9 @@ The reason for this collation is to support data analysis which requires all of 
 
 The original project is at: https://github.com/vz-risk/VCDB
 
+# Motivation
+I am a cybersecurity researcher at the Manchester Metropolitan University. I made a single JSON file so that I could use it in Tableau Public to product data visualisations for my research publications.
+
 # Regularity of Updates
 This collated JSON data file will be updated quarterly.
 
